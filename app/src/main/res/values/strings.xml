@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="search_label">Search</string>
+    <string name="image_title_label">Image Title</string>
+    <string name="title_activity_image_display">Full Image</string>
+    <string name="title_activity_settings">Search Settings</string>
+    <string name="search_settings_label">Search Settings</string>
+    <string name="filter_size_label">Size</string>
+    <string name="filter_color_label">Color</string>
+    <string name="filter_type_label">Type</string>
+    <string name="filter_site_label">Site</string>
+    <string name="ok_label">OK</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

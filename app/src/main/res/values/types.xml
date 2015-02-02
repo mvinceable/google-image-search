@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types_array">
+        <item>Any</item>
+        <item>Faces</item>
+        <item>Photos</item>
+        <item>Clip Art</item>
+        <item>Line Art</item>
+    </string-array>
+</resources>

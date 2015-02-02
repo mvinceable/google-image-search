@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sizes_array">
+        <item>Any</item>
+        <item>Icon</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>X-Large</item>
+        <item>XX-Large</item>
+        <item>Huge</item>
+    </string-array>
+</resources>
